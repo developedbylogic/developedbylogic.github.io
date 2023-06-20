@@ -1,1 +1,1 @@
-# logic.github.io
+# developedbylogic.github.io
